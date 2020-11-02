@@ -136,3 +136,5 @@ let g:lightline = {
 nmap <F6> :NERDTreeToggle<CR>
 nmap <F4> :CocCommand clangd.switchSourceHeader<CR>
 highlight Pmenu ctermbg=gray guibg=gray
+set statusline+=%{gutentags#statusline()}
+let g:gutentags_cache_dir = "~/.ctags_cache"

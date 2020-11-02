@@ -1,0 +1,340 @@
+
+!--------------------xdefauls
+URxvt.font: xft:Hack:pixelsize=10
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+urxvt.boldFont:
+URxvt.letterSpace: -1
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+URxvt*cursorUnderline: true
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+*internalBorder: 30
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+URxvt.depth: 32
+URxvt.background: [90]#151515
+URxvt.borderColor: [90]#151515
+*foreground: #d7d0c7
+*background: #151515
+*borderColor: #151515
+
+! Dotshare colors
+*color0:     #252525
+*color8:     #404040
+!red
+*color1:     #E84F4F
+*color9:     #D23D3D
+!green
+*color2:     #B8D68C
+*color10:    #A0CF5D
+!yellow
+*color3:     #E1AA5D
+*color11:    #F39D21
+!blue
+*color4:     #7DC1CF
+*color12:    #4E9FB1
+!magenta
+*color5:     #9B64FB
+*color13:    #8542FF
+!cyan
+*color6:     #6D878D
+*color14:    #42717B
+!white
+*color7:     #dddddd
+*color15:    #dddddd
+
+!red
+*color16: #CC2F2F
+*color17: #CC4747
+!green
+*color18: #81CC47
+*color19: #81D93D
+!yellow
+*color20: #DBBD4B
+*color21: #E0B646
+!blue
+*color22: #4699E0
+*color23: #5FA6E3
+!magenta
+*color24: #884e9e
+*color25: #652f8f
+!cyan
+*color26: #f69221
+*color27: #e97d24
+
+!red
+*color28:     #D23D3D
+*color29:     #DE2323
+!green
+*color30:     #A6DE55
+*color31:     #9BE03A
+!yellow
+*color32:     #E3D349
+*color33:     #F2DD29
+!blue
+*color34:     #4A98D4
+*color35:     #2883c9
+!magenta
+*color36:     #9B64FB
+*color37:     #8542FF
+!cyan
+*color38:     #F7AF59
+*color39:     #EF9429
+
+!red
+*color40: #c14c2e
+*color41: #d92918
+!green
+*color42: #bdf271
+*color43: #ffffa6
+!yellow
+*color44: #ff8939
+*color45: #ffc051
+!blue
+*color46: #2554a4
+*color47: #447f6e
+!magenta
+*color48: #b52841
+*color49: #d9042b
+!cyan
+*color50: #435d65
+*color51: #6e98a4
+
+!red
+*color52:#A71B1A
+*color53:#BF3130
+!green
+*color54:#3B8526
+*color55:#58A642
+!yellow
+*color56:#E49202
+*color57:#FFB026
+!blue
+*color58:#1D576D
+*color59:#31788E
+!magenta
+*color60:#97219C
+*color61:#A7248C
+!cyan
+*color62:#24866F
+*color63:#37A48D
+
+URxvt*color64: #d0413d
+URxvt*color65: #b72421
+URxvt*color66: #e1aa5d
+URxvt*color67: #d3d43b
+URxvt*color68: #90ca4e
+URxvt*color69: #b8d68c
+URxvt*color70: #FF97FC
+URxvt*color71: #A1FFA1
+
+URxvt*color72: #56FFA9
+URxvt*color73: #FF56A6
+URxvt*color74: #B2FFC3
+URxvt*color75: #FF9DC2
+URxvt*color76: #FFEDA2
+URxvt*color77: #A2FFD1
+URxvt*color78: #FF8249
+URxvt*color79: #D6B3FF
+
+URxvt*color80: #4989FF
+URxvt*color81: #5fd7ff
+URxvt*color82: #FF57A7
+URxvt*color83: #FF6569
+URxvt*color84: #FFAC65
+URxvt*color85: #FFE165
+URxvt*color86: #C7FF65
+URxvt*color87: #75FF65
+
+URxvt*color88: #65FF84
+URxvt*color89: #65FFA2
+URxvt*color90: #65FFDA
+URxvt*color91: #65D4FF
+URxvt*color92: #5157FF
+URxvt*color93: #FF51F3
+URxvt*color94: #FF51B6
+URxvt*color95: #FF5171
+URxvt*color96: #FF6C51
+
+URxvt*color97: #FFA351
+URxvt*color98: #FFE751
+URxvt*color99: #BBFF51
+URxvt*color100: #5CFF51
+URxvt*color101: #A2408A
+URxvt*color102: #51FFED
+URxvt*color103: #5451FF
+URxvt*color104: #AB51FF
+
+URxvt*color105: #E475FF
+URxvt*color106: #FF75C3
+URxvt*color107: #FF757F
+URxvt*color108: #E8FF75
+URxvt*color109: #A7FF75
+URxvt*color110: #FF2E28
+URxvt*color111: #FF6A28
+URxvt*color112: #FFA528
+
+URxvt*color113: #FAFF28
+URxvt*color114: #99FF55
+URxvt*color115: #3FA862
+URxvt*color116: #55FFD0
+URxvt*color117: #9F55FF
+URxvt*color118: #FE55FF
+URxvt*color119: #FF55A2
+URxvt*color120: #FF3245
+URxvt*color121: #E56D2F
+
+URxvt*color122: #E59D2F
+URxvt*color123: #DAE52F
+URxvt*color124: #90E52F
+URxvt*color125: #51E52F
+URxvt*color126: #2FE562
+URxvt*color127: #2FE5BA
+URxvt*color128: #2FC0E5
+URxvt*color129: #2F64E5
+
+URxvt*color130: #642FE5
+URxvt*color131: #C52FE5
+URxvt*color132: #E52F93
+URxvt*color133: #E52F39
+URxvt*color134: #CF3716
+URxvt*color135: #CF7C16
+URxvt*color136: #B7CF16
+URxvt*color137: #D16634
+
+URxvt*color138: #18CF16
+URxvt*color139: #16CF87
+URxvt*color140: #16A2CF
+URxvt*color141: #164ECF
+URxvt*color142: #8516CF
+URxvt*color143: #CF16B2
+URxvt*color144: #B82220
+URxvt*color145: #FF433F
+
+URxvt*color146: #FF3F64
+URxvt*color147: #FF3FCA
+URxvt*color148: #FFF53F
+URxvt*color149: #D781FF
+URxvt*color150: #81ADFF
+URxvt*color151: #81FFF4
+URxvt*color152: #81FFAC
+URxvt*color153: #9DFF81
+
+URxvt*color154: #EEFF81
+URxvt*color155: #FFB781
+URxvt*color156: #FF81A8
+URxvt*color157: #FF407B
+URxvt*color158: #DC40FF
+URxvt*color159: #40BCFF
+URxvt*color160: #40FF82
+URxvt*color161: #B1FF40
+
+URxvt*color162: #FFBF40
+URxvt*color163: #FF4054
+URxvt*color164: #E562E3
+URxvt*color165: #628DE5
+URxvt*color166: #62C1E5
+URxvt*color167: #BD434F
+URxvt*color168: #74E562
+URxvt*color169: #BCE562
+
+URxvt*color170: #E5C562
+URxvt*color171: #E58562
+URxvt*color172: #C74346
+URxvt*color173: #C743A7
+URxvt*color174: #8643C7
+URxvt*color175: #43A8C7
+URxvt*color176: #43C794
+URxvt*color177: #6FC743
+
+URxvt*color178: #A8C743
+URxvt*color179: #C7B543
+URxvt*color180: #C77C43
+URxvt*color181: #AD30FF
+URxvt*color182: #FF30E9
+URxvt*color183: #FF30A0
+URxvt*color184: #FF3065
+URxvt*color185: #FF3039
+
+URxvt*color186: #FA392E
+URxvt*color187: #FA652E
+URxvt*color188: #FA942E
+URxvt*color189: #FAC52E
+URxvt*color190: #FAF42E
+URxvt*color191: #CBFA2E
+URxvt*color192: #94FA2E
+URxvt*color193: #d7ff87
+
+URxvt*color194: #2EFA33
+URxvt*color195: #2EFA6C
+URxvt*color196: #2EFAA6
+URxvt*color197: #2EFAF0
+URxvt*color198: #2EB4FA
+URxvt*color199: #2E75FA
+URxvt*color200: #A32EFA
+URxvt*color201: #FA2EF4
+
+URxvt*color202: #DA3987
+URxvt*color203: #DA7739
+URxvt*color204: #ff5f87
+URxvt*color205: #ff5faf
+URxvt*color206: #ff5fd7
+URxvt*color207: #ff5fff
+URxvt*color208: #ff8700
+URxvt*color209: #ff875f
+URxvt*color210: #ff8787
+URxvt*color211: #ff87af
+URxvt*color212: #ff87d7
+URxvt*color213: #ff87ff
+URxvt*color214: #ffaf00
+URxvt*color215: #ffaf5f
+URxvt*color216: #ffaf87
+URxvt*color217: #ffafaf
+URxvt*color218: #ffafd7
+URxvt*color219: #ffafff
+URxvt*color220: #ffd700
+URxvt*color221: #ffd75f
+URxvt*color222: #ffd787
+URxvt*color223: #ffd7af
+URxvt*color224: #ffd7d7
+URxvt*color225: #ffd7ff
+URxvt*color226: #ffff00
+URxvt*color227: #ffff5f
+URxvt*color228: #ffff87
+URxvt*color229: #ffffaf
+URxvt*color230: #ff005f
+URxvt*color231: #ffffff
+URxvt*color232: #080808
+URxvt*color233: #0f0f0f
+URxvt*color234: #111111
+URxvt*color235: #262626
+URxvt*color236: #202020
+URxvt*color237: #3a3a3a
+URxvt*color238: #444444
+URxvt*color239: #4e4e4e
+URxvt*color240: #585858
+URxvt*color241: #626262
+URxvt*color242: #6c6c6c
+URxvt*color243: #767676
+URxvt*color244: #808080
+URxvt*color245: #8a8a8a
+URxvt*color246: #949494
+URxvt*color247: #9e9e9e
+URxvt*color248: #a8a8a8
+URxvt*color249: #b2b2b2
+URxvt*color250: #bcbcbc
+URxvt*color251: #c6c6c6
+URxvt*color252: #d0d0d0
+URxvt*color253: #dadada
+URxvt*color254: #e4e4e4
+URxvt*color255: #eeeeee
+
+

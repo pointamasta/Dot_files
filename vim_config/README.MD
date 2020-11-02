@@ -12,3 +12,5 @@ https://github.com/itchyny/lightline.vim
 
 -Ctags 
 https://kulkarniamit.github.io/whatwhyhow/howto/use-vim-ctags.html
++
+https://bolt80.com/gutentags/
